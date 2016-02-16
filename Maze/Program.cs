@@ -17,7 +17,7 @@ Sample Maze file content:
 1F11111111
 */
 
-namespace SomethingDigital_Maze
+namespace Maze
 {
     class Program
     {
