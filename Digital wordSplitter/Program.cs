@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace SomethingDigital_WordSplitter
+namespace WordSplitter
 {
     class Program
     {
